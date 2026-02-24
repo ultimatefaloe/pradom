@@ -57,7 +57,7 @@ export const PRODUCTS: Product[] = [
     id: "honey-beans",
     name: "Honey Beans (Oloyin)",
     category: "Beans",
-    image: "https://images.unsplash.com/photo-1551462147-37885acc3c41?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1612504258838-fbf14fe4437d?q=80&w=800&auto=format&fit=crop",
     options: [
       { weight: "1kg", price: 4 },
       { weight: "2kg", price: 8 },
@@ -85,7 +85,7 @@ export const PRODUCTS: Product[] = [
     id: "palm-oil",
     name: "Premium Palm Oil",
     category: "Oils",
-    image: "https://images.unsplash.com/photo-1620706122100-616aa048a43f?q=80&w=800&auto=format&fit=crop",
+    image: "https://www.freshfromthefield.org/img/products/product-palmoil-4-single.jpg",
     options: [
       { weight: "1 Litre", price: 6 },
       { weight: "2 Litre", price: 11 },
@@ -112,14 +112,14 @@ export const PRODUCTS: Product[] = [
     id: "curry-sachet",
     name: "Curry Sachet",
     category: "Spices",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?q=80&w=800&auto=format&fit=crop",
+    image: "https://www.agrohandlers.com/uploaded_files/product-pix/PR1253-0671917e0e33b2.jpg",
     options: [{ weight: "Sachet", price: 2 }]
   },
   {
     id: "thyme-sachet",
     name: "Thyme Sachet",
     category: "Spices",
-    image: "https://images.unsplash.com/photo-1591850053270-888d00278f31?q=80&w=800&auto=format&fit=crop",
+    image: "https://img.ankorstore.com/products/images/4077255-47df8b26fb78ab.jpg?dpr=1&func=fit&w=2000&force_format=webp",
     options: [{ weight: "Sachet", price: 2 }]
   },
   {
@@ -208,7 +208,7 @@ export const PRODUCTS: Product[] = [
     id: "guinness",
     name: "Guinness Stout",
     category: "Beers",
-    image: "https://images.unsplash.com/photo-1584225064785-c72a790b71ad?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1613254025943-82399193fbfa?w=800&auto=format&fit=crop",
     options: [{ weight: "Bottle", price: 5 }]
   },
   {
@@ -237,7 +237,7 @@ export const PRODUCTS: Product[] = [
     id: "ribena",
     name: "Ribena Juice",
     category: "Fruit Juice",
-    image: "https://images.unsplash.com/photo-1525904097882-44f59830c3ed?q=80&w=800&auto=format&fit=crop",
+    image: "https://blackcurrantfoundation.co.uk/wp-content/uploads/2022/08/011-4-min.jpeg",
     options: [{ weight: "Carton", price: 4 }]
   },
   {
